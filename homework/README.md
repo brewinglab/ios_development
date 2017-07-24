@@ -13,3 +13,21 @@ Example Input:
 you cannot use any helper functions or methods.  Example, you cannot use 'count()', 'split()', 'reversed()' methods in your solution.  You would need to develop your own logic.
 
 [2]
+Given a 2D Array, determine if the values starting from position (0,0), will be multiplies 2x of itself going vertical and across.
+
+Sample input 2D array:
+
+[2] [4] [8] [16] [32] 
+[4] [8] [16] [32] [64]
+[8] [16] [32] [64] [128] 
+
+Sample output:
+Return:  True
+
+
+Requirements:
+[1] Function is able to take in any array size
+[2] Only integer values
+[3] No helper functions
+
+[3]
