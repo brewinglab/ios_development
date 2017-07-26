@@ -59,6 +59,9 @@ Example Input:
 
  - final = [4,5,6,7,9,10,11,12,13,14,15,16]
 
+ **[5]**
+
+ Given the [iOS_food] app, complete the application so that the application can function accordingly.  
 
 
 
