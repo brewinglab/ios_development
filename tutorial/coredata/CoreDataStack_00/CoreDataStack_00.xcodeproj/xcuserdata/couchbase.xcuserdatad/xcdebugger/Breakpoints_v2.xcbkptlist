@@ -15,7 +15,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "18"
             endingLineNumber = "18"
-            landmarkName = "modelURL"
+            landmarkName = "storesDirectory"
             landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
@@ -63,7 +63,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "41"
             endingLineNumber = "41"
-            landmarkName = "localStoreURL"
+            landmarkName = "modelURL"
             landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
