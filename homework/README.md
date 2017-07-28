@@ -66,5 +66,19 @@ Example Input:
 
  [iOS_food]: <https://github.com/brewinglab/ios_development/tree/master/tutorial/sample>
 
+ **[6]**
+
+ Given a sequence integer numbers, return the higher value in the sequence and the lowest value.
+
+ Exanoke Input:  
+
+  - input_1 = [21, 90, 23, 81, 19, 15]
+
+  Output:
+
+   - highest: 90
+   - lowest:  15
+
+
 
 
