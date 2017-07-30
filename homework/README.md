@@ -86,6 +86,7 @@ Given an integer, convert the integer value to it’s HEX (hexadecimal) equivale
 Example:
   
   input type: integer
+  
   output type: string
 
   Input --> Output
