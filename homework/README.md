@@ -59,14 +59,14 @@ Example Input:
 
  - final = [4,5,6,7,9,10,11,12,13,14,15,16]
 
- **[5]**
+**[5]**
 
  Given the [iOS_food] app, complete the application so that the application can function accordingly.  
 
 
  [iOS_food]: <https://github.com/brewinglab/ios_development/tree/master/tutorial/sample>
 
- **[6]**
+**[6]**
 
  Given a sequence integer numbers, return the higher value in the sequence and the lowest value.
 
@@ -79,6 +79,37 @@ Example Input:
    - highest: 90
    - lowest:  15
 
+**[7]**
 
+Given an integer, convert the integer value to it’s HEX (hexadecimal) equivalent and print out the String representation.
+
+Example:
+  
+  input type: integer
+  output type: string
+
+  Input --> Output
+   
+    1 -> "1"
+    0 -> "0"
+
+    9 -> "9"
+    10 -> "a"
+    15 -> "f"
+    
+    16 -> "10"
+    
+    17 -> "11"
+    18 -> "12"
+    19 -> "13"
+    
+    30 -> "1e"
+    31 -> "1f"
+    32 -> "20"
+    
+    255 -> "ff"
+    256 -> "100"
+
+Bonus:  Implement the solution using recursion.  Recursive function calls.
 
 
